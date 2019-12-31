@@ -1,0 +1,6 @@
+[submodule "photos-web"]
+	path = photos-web
+	url = git@github.com:mat-sz/photos-web
+[submodule "photos-api"]
+	path = photos-api
+	url = git@github.com:mat-sz/photos-api
